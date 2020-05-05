@@ -1,2 +1,2 @@
-# squash
-it is very lovely to play
+# staticSquare
+A static square made using Matter.js physics engine
